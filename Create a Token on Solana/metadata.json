@@ -1,0 +1,14 @@
+{
+    "name": "My Token",
+    "symbol": "MTK",
+    "uri": "https://example.com/my-token-metadata.json",
+    "seller_fee_basis_points": 500,
+    "creators": [
+      {
+        "address": "Your Wallet Address",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  }
+  
